@@ -24,7 +24,7 @@ Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows roll
 | Report status      | Chief Finding                                                                                |
 | total bugs found   | 3 High(3 cheif finder), 5 low/insight                                                        |
 | amount payed       | $33.6k                                                                                       |
-| protocol team rate | 5/5                                                                                          |
+| protocol team rate | 5/5 respectful team, quick response                                                                                       |
 
 # Vulnerability Details
 
