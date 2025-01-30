@@ -14,7 +14,7 @@ The details shared in this report are for informational purposes only and are no
 
 # About **FUEL blockchain**
 
-Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows rollups to solve for PSI (parallelization, state minimized execution, interoperability) without making any, for more information read their docs [here](https://docs.fuel.network/docs/intro/what-is-fuel/).
+Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows rollups to solve for PSI (parallelization, state minimized execution, interoperability). for more information read their docs [here](https://docs.fuel.network/docs/intro/what-is-fuel/).
 
 # Report Stats
 
